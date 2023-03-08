@@ -1,0 +1,22 @@
+/* element that starts with a . is a class and element that starts with a # is a id. */
+
+
+.odd{
+background:pink;
+font-family:Verdana, "DejaVu Sans", sans-serif;
+}
+
+.adjust-font-size{
+font-size:30px;
+}
+
+#two{
+color:blue;
+font-size:40px;
+}
+
+#four{
+background:hsl(120,100%,75%);
+font-weight:bold;
+font-size:35px
+}
